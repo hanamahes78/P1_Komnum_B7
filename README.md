@@ -1,7 +1,7 @@
 # P1_Komnum_B7
 
-5025211018 Andrian Tambunan
-5025211182 Hana Maheswari
+5025211018 Andrian Tambunan\n
+5025211182 Hana Maheswari\n
 5025211024 Widian Sasi Disertasiani
 
 1. Persamaan didefinisikan contoh: f(x) = cos(x) - x*exp(x)
