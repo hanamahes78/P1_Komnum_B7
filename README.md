@@ -1,8 +1,8 @@
 # P1_Komnum_B7
 
-Andrian Tambunan – 5025211018
-Hana Maheswari – 5025211182
-Widian Sasi Disertasiani – 5025211024
+5025211018 Andrian Tambunan
+5025211182 Hana Maheswari
+5025211024 Widian Sasi Disertasiani
 
 1. Persamaan didefinisikan contoh: f(x) = cos(x) - x*exp(x)
 2. Deklarasi variabel
