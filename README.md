@@ -1,9 +1,11 @@
 # P1_Komnum_B7
 
-5025211018 Andrian Tambunan\n
-5025211182 Hana Maheswari\n
-5025211024 Widian Sasi Disertasiani
+Nama Anggota:
+1. 5025211018 Andrian Tambunan
+2. 5025211182 Hana Maheswari
+3. 5025211024 Widian Sasi Disertasiani
 
+Penjelasan Singkat:
 1. Persamaan didefinisikan contoh: f(x) = cos(x) - x*exp(x)
 2. Deklarasi variabel
 3. Inputkan interval dan presisi
